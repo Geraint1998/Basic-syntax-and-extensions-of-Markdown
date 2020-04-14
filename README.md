@@ -254,3 +254,6 @@ Markdown 语法符号是不显示的，希望它显示时，在前面加 \
 （但不要大量使用，因为从markdown格式导出其他格式可能出错，
 
 两者也容易被混淆）
+<br /><br />
+
+[Markdown软件及在线编辑器](https://geraint.buzz/post/38/)
