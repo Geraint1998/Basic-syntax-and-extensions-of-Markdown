@@ -264,5 +264,4 @@ Markdown 语法符号是不显示的，希望它显示时，在前面加 \
 <span id="软件及在线编辑器"></span>
 <br />
 
-## [Markdown软件及在线编辑器：](#目录)
-<https://geraint.buzz/post/38/>
+## [Markdown软件及在线编辑器](https://geraint.top/post/38/)
